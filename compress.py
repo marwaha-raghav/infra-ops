@@ -8,7 +8,7 @@ from botocore.exceptions import NoCredentialsError
 import hashlib
 
 # path for creating the backups as described in task 3-b
-backup_path = "/var/log/archives"
+backup_path = "/var/log/archive"
 
 
 # get current time
